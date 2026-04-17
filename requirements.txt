@@ -7,5 +7,5 @@ Werkzeug==2.2.2
 flask
 flask-cors
 opencv-python-headless
-tensorflow==2.10.0
+keras
 numpy==1.23.5
